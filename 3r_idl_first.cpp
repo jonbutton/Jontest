@@ -36,6 +36,7 @@
 #include <3r_idl_first.h>
 #include <3r_idl_first_i.c>
 
+// JB Test edit
 
 CComModule _Module;
 
